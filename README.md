@@ -1,3 +1,7 @@
+TOOL: chipwhisperer-marc/doc/marc/keeloq/keeloq_algorithm/keeloq_algorithm.md
+
+
+
 
 ![Hero image](doc/marc/readme/hero.png)
 
